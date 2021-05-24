@@ -4,7 +4,7 @@ April 5, 2021 <br>
 
 ## CONTACT INFORMATION
 
-Contact Name:		  Trong Nguyen <br>
+Contact Name:		Trong Nguyen <br>
 Contact Email: 		trong0dn@gmail.com <br>
 
 
@@ -50,6 +50,9 @@ To run the program via Command Prompt, using the following prompt entry:
 For instance, starting a game with 3 12-sided dice,
 
 	>>> java mydicegame/DiceGame 12 3
+
+However, if no entries for number of die and sides then the default is
+2 6-sided dice.
 
 ------------------------------- Game Sequence --------------------------------
 
