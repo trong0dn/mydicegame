@@ -45,14 +45,14 @@ the .class files.
 
 To run the program via Command Prompt, using the following prompt entry:
 
-	>>> java mydicegame/DiceGame <# of die> <# of sides>
+	>>> java mydicegame/DiceGame <# of dice> <# of sides>
 
 For instance, starting a game with 3 12-sided dice,
 
 	>>> java mydicegame/DiceGame 12 3
 
 However, if no entries for number of die and sides then the default is
-2 6-sided dice.
+2 6-sided dice with a balance of $100.
 
 ------------------------------- Game Sequence --------------------------------
 
