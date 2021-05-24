@@ -51,7 +51,18 @@ For instance, starting a game with 3 12-sided dice,
 
 	>>> java mydicegame/DiceGame 12 3
 
------------------------- Sample Game Shell Input & Ouputs --------------------
+------------------------------- Game Sequence --------------------------------
+
+Each round consists of the following sequence of events:
+- The player enters a wager which the computer matches. If the computer does 
+not have enough, it will go all-in.
+- The player and computer roll the dice.
+- The highest sum, as determined by the face-up values of each die collects 
+the pot for the round.
+- The game continues until you quit (by entering a special value for your bet, 
+-1 for example), or until either you or the computer run out of money.
+
+---------------------- Sample Game Shell Input & Ouputs ----------------------
 <div>
 Welcome to the Game of Dice! <br>
 Starting a game with 3 12-sided dice. <br>
