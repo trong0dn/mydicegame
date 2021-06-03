@@ -66,7 +66,7 @@ the pot for the round.
 -1 for example), or until either you or the computer run out of money.
 
 ---------------------- Sample Game Shell Input & Ouputs ----------------------
-<div>
+<pre>
 Welcome to the Game of Dice! <br>
 Starting a game with 3 12-sided dice. <br>
 -------------------------------- <br>
@@ -90,7 +90,7 @@ Place your bet (-1 to quit playing) >>> 101 <br>
 The computer wins this round! <br>
 Oh no, you're out of credit! <br>
 Good Bye! <br>
-</div>
+</pre>
 
 <END OF FILE>
 
