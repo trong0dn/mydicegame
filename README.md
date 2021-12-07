@@ -2,12 +2,6 @@
 Version 1.0 <br>
 April 5, 2021 <br>
 
-## CONTACT INFORMATION
-
-Contact Name:		Trong Nguyen <br>
-Contact Email: 		trong0dn@gmail.com <br>
-
-
 ## DESCRIPTION
 
 - A dice gambling game played against the computer. The game premise is to 
